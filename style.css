@@ -2,12 +2,12 @@
     margin: 0;
 }
 li {
-    front-size: 45px;
+    front-size: 24px;
     }
 ul {
     display: block;
     width: 100px;
-    height: 188px;
+    height: 218px;
     background-color: rgb rgb(153, 224, 72)
 }
 .conteiner {
