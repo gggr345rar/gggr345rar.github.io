@@ -3,9 +3,9 @@
 }
 ul {
     display: block;
-    width: 60px;
-    height: 188px;
-    background-color: rgb rgb(153, 224, 72)
+    width: 120px;
+    height: 376px;
+    background-color: rgb rgb(153, 224, 72);
 }
 .conteiner {
     margin: 10px;
@@ -43,4 +43,10 @@ background-color: burlywood;
 .conteiner {
     background-color: rgb(197, 91, 91);
     margin: 50;
+}
+td {
+    background-color: yellow;
+}
+th {
+    background-color: rgb(255, 179, 39);
 }
