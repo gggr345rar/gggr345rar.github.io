@@ -29,9 +29,18 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: orange;
 }
 head1 {
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: yellow;
+}
+body {
+background-color: burlywood;
+}
+.conteiner {
+    background-color: rgb(197, 91, 91);
+    margin: 50;
 }
