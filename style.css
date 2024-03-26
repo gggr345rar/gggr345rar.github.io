@@ -1,13 +1,10 @@
 * {
     margin: 0;
 }
-li {
-    front-size: 24px;
-    }
 ul {
     display: block;
-    width: 100px;
-    height: 218px;
+    width: 60px;
+    height: 188px;
     background-color: rgb rgb(153, 224, 72)
 }
 .conteiner {
@@ -21,7 +18,7 @@ ul {
 }
 
 .conteiner>img {
-    max-width: 100px;
+    max-width: 200px;
 }
 .logo {
     margin-right: 10px;
