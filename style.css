@@ -23,3 +23,18 @@ ul {
 .conteiner>img {
     max-width: 100px;
 }
+.logo {
+    margin-right: 10px;
+    width: 150px; 
+    height: 100px;
+}
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+head1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
