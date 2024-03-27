@@ -5,7 +5,6 @@ ul {
     display: block;
     width: 120px;
     height: 56px;
-    background-color: rgb rgb(153, 224, 72);
 }
 .conteiner {
     margin: 10px;
@@ -20,7 +19,16 @@ ul {
 .conteiner>img {
     max-width: 200px;
 }
+.conteiner {
+    background-color: rgb(197, 91, 91);
+    margin: 50;
+}
 .logo {
+    margin-right: 10px;
+    width: 150px; 
+    height: 100px;
+}
+.logo1 {
     margin-right: 10px;
     width: 150px; 
     height: 100px;
@@ -31,6 +39,12 @@ header {
     align-items: center;
     background-color: orange;
 }
+photo {
+    display: flex;
+    justify-content: right;
+    align-items: center;
+
+}
 head1 {
     display: flex;
     justify-content: center;
@@ -39,10 +53,6 @@ head1 {
 }
 body {
 background-color: burlywood;
-}
-.conteiner {
-    background-color: rgb(197, 91, 91);
-    margin: 50;
 }
 td {
     background-color: yellow;
