@@ -19,26 +19,10 @@ ul {
 .conteiner>img {
     max-width: 200px;
 }
-.conteiner1 {
+.conteiner {
     background-color: rgb(197, 91, 91);
     margin: 50;
 }
-.conteiner1 {
-    margin: 10px;
-    display: inline-block;
-    text-align: center;
-    background-color: aliceblue;
-}
-.main1{
-   text-align: center;
-}
-
-.conteiner1>img {
-    max-width: 200px;
-}
-.conteiner1 {
-    background-color: rgb(197, 91, 91);
-    margin: 50;
 .logo {
     margin-right: 10px;
     width: 150px; 
